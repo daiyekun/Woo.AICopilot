@@ -44,3 +44,4 @@ src/Woo.AICopilot.EventBus/bin
 src/Woo.AICopilot.EventBus/obj
 src/Woo.AICopilot.ServiceDefaults/bin
 src/Woo.AICopilot.SharedKernel/bin
+.vs
