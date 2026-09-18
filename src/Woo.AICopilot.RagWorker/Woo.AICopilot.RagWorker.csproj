@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>dotnet-Woo.AICopilot.RagWorker-75c36550-3329-461f-87a3-207334506df6</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Aspire.Qdrant.Client" Version="13.1.0" />
+        <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.1" />
+        <PackageReference Include="Microsoft.SemanticKernel" Version="1.68.0" />
+        <PackageReference Include="PdfPig" Version="0.1.12" />
+        <PackageReference Include="SharpToken" Version="2.0.4" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Woo.AICopilot.Embedding\Woo.AICopilot.Embedding.csproj" />
+      <ProjectReference Include="..\Woo.AICopilot.EntityFrameworkCore\Woo.AICopilot.EntityFrameworkCore.csproj" />
+      <ProjectReference Include="..\Woo.AICopilot.EventBus\Woo.AICopilot.EventBus.csproj" />
+      <ProjectReference Include="..\Woo.AICopilot.Infrastructure\Woo.AICopilot.Infrastructure.csproj" />
+      <ProjectReference Include="..\Woo.AICopilot.ServiceDefaults\Woo.AICopilot.ServiceDefaults.csproj" />
+      <ProjectReference Include="..\Woo.AICopilot.Services.Common\Woo.AICopilot.Services.Common.csproj" />
+    </ItemGroup>
+</Project>

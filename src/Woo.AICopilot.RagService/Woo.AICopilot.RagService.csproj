@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Woo.AICopilot.Core.Rag\Woo.AICopilot.Core.Rag.csproj" />
+      <ProjectReference Include="..\Woo.AICopilot.Embedding\Woo.AICopilot.Embedding.csproj" />
+      <ProjectReference Include="..\Woo.AICopilot.EntityFrameworkCore\Woo.AICopilot.EntityFrameworkCore.csproj" />
+      <ProjectReference Include="..\Woo.AICopilot.EventBus\Woo.AICopilot.EventBus.csproj" />
+      <ProjectReference Include="..\Woo.AICopilot.Services.Common\Woo.AICopilot.Services.Common.csproj" />
+      <ProjectReference Include="..\Woo.AICopilot.SharedKernel\Woo.AICopilot.SharedKernel.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Aspire.Qdrant.Client" Version="13.1.0" />
+    </ItemGroup>
+
+</Project>

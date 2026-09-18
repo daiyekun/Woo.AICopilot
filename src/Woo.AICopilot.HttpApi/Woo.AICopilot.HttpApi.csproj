@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.1" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="10.0.1">
+          <PrivateAssets>all</PrivateAssets>
+          <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+        <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="10.1.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\Woo.AICopilot.AiGatewayService\Woo.AICopilot.AiGatewayService.csproj"/>
+        <ProjectReference Include="..\Woo.AICopilot.IdentityService\Woo.AICopilot.IdentityService.csproj"/>
+        <ProjectReference Include="..\Woo.AICopilot.Infrastructure\Woo.AICopilot.Infrastructure.csproj"/>
+        <ProjectReference Include="..\Woo.AICopilot.McpService\Woo.AICopilot.McpService.csproj" />
+        <ProjectReference Include="..\Woo.AICopilot.RagService\Woo.AICopilot.RagService.csproj" />
+        <ProjectReference Include="..\Woo.AICopilot.ServiceDefaults\Woo.AICopilot.ServiceDefaults.csproj"/>
+    </ItemGroup>
+</Project>

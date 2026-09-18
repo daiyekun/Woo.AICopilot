@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ECWnLchIxEM=",
+  "success": true,
+  "projectFilePath": "D:\\BaiduNetdiskDownload\\wooAI\\Zilor.AICopilot\\src\\Woo.AICopilot.AgentPlugin\\Woo.AICopilot.AgentPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.1.1\\microsoft.extensions.ai.abstractions.10.1.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.1\\microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

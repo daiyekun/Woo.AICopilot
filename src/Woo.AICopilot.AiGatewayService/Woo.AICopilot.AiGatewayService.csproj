@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\Woo.AICopilot.AgentPlugin\Woo.AICopilot.AgentPlugin.csproj" />
+        <ProjectReference Include="..\Woo.AICopilot.Core.AiGateway\Woo.AICopilot.Core.AiGateway.csproj"/>
+        <ProjectReference Include="..\Woo.AICopilot.DataAnalysisService\Woo.AICopilot.DataAnalysisService.csproj" />
+        <ProjectReference Include="..\Woo.AICopilot.IdentityService\Woo.AICopilot.IdentityService.csproj" />
+        <ProjectReference Include="..\Woo.AICopilot.RagService\Woo.AICopilot.RagService.csproj" />
+        <ProjectReference Include="..\Woo.AICopilot.Services.Common\Woo.AICopilot.Services.Common.csproj"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.Agents.AI.Hosting" Version="1.0.0-preview.251219.1" />
+      <PackageReference Include="Microsoft.Agents.AI.OpenAI" Version="1.0.0-preview.251204.1" />
+      <PackageReference Include="Microsoft.Agents.AI.Workflows" Version="1.0.0-preview.251219.1" />
+      <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="10.0.1" />
+      <PackageReference Include="Microsoft.Extensions.Http" Version="10.0.1" />
+      <PackageReference Include="OpenTelemetry" Version="1.14.0" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Visualization\bin\Debug\net10.0\Woo.AICopilot.Visualization.deps.json
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Visualization\bin\Debug\net10.0\Woo.AICopilot.Visualization.dll
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Visualization\bin\Debug\net10.0\Woo.AICopilot.Visualization.pdb
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Visualization\obj\Debug\net10.0\Woo.AICopilot.Visualization.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Visualization\obj\Debug\net10.0\Woo.AICopilot.Visualization.AssemblyInfoInputs.cache
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Visualization\obj\Debug\net10.0\Woo.AICopilot.Visualization.AssemblyInfo.cs
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Visualization\obj\Debug\net10.0\Woo.AICopilot.Visualization.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Visualization\obj\Debug\net10.0\Woo.AICopilot.Visualization.dll
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Visualization\obj\Debug\net10.0\refint\Woo.AICopilot.Visualization.dll
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Visualization\obj\Debug\net10.0\Woo.AICopilot.Visualization.pdb
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Visualization\obj\Debug\net10.0\ref\Woo.AICopilot.Visualization.dll

@@ -1,0 +1,28 @@
+<Project Sdk="Aspire.AppHost.Sdk/13.0.0">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <UserSecretsId>0bf598ac-665f-44e2-a7d3-71381d83c636</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+
+        <ProjectReference Include="..\Woo.AICopilot.HttpApi\Woo.AICopilot.HttpApi.csproj"/>
+
+        <ProjectReference Include="..\Woo.AICopilot.MigrationWorkApp\Woo.AICopilot.MigrationWorkApp.csproj"/>
+
+        <ProjectReference Include="..\Woo.AICopilot.RagWorker\Woo.AICopilot.RagWorker.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Aspire.Hosting.AppHost" Version="13.1.0" />
+        <PackageReference Include="Aspire.Hosting.PostgreSQL" Version="13.1.0" />
+        <PackageReference Include="Aspire.Hosting.Qdrant" Version="13.1.0" />
+        <PackageReference Include="Aspire.Hosting.RabbitMQ" Version="13.1.0" />
+        <PackageReference Include="CommunityToolkit.Aspire.Hosting.NodeJS.Extensions" Version="9.9.0" />
+    </ItemGroup>
+
+</Project>

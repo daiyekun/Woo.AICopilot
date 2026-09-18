@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.1" />
+        <PackageReference Include="Aspire.Npgsql.EntityFrameworkCore.PostgreSQL" Version="13.1.0" />
+        <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="10.0.1" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore" Version="10.0.1" />
+        <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="10.0.1" />
+        <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="10.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\Woo.AICopilot.Core.AiGateway\Woo.AICopilot.Core.AiGateway.csproj"/>
+        <ProjectReference Include="..\Woo.AICopilot.Core.McpServer\Woo.AICopilot.Core.McpServer.csproj" />
+        <ProjectReference Include="..\Woo.AICopilot.Core.Rag\Woo.AICopilot.Core.Rag.csproj" />
+        <ProjectReference Include="..\Woo.AICopilot.IdentityService\Woo.AICopilot.IdentityService.csproj"/>
+        <ProjectReference Include="..\Woo.AICopilot.Services.Common\Woo.AICopilot.Services.Common.csproj"/>
+    </ItemGroup>
+</Project>

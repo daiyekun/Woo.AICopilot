@@ -1,0 +1,15 @@
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Core.DataAnalysis\bin\Debug\net10.0\Woo.AICopilot.Core.DataAnalysis.deps.json
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Core.DataAnalysis\bin\Debug\net10.0\Woo.AICopilot.Core.DataAnalysis.dll
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Core.DataAnalysis\bin\Debug\net10.0\Woo.AICopilot.Core.DataAnalysis.pdb
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Core.DataAnalysis\bin\Debug\net10.0\Woo.AICopilot.SharedKernel.dll
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Core.DataAnalysis\bin\Debug\net10.0\Woo.AICopilot.SharedKernel.pdb
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Core.DataAnalysis\obj\Debug\net10.0\Woo.AICopilot.Core.DataAnalysis.csproj.AssemblyReference.cache
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Core.DataAnalysis\obj\Debug\net10.0\Woo.AICopilot.Core.DataAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Core.DataAnalysis\obj\Debug\net10.0\Woo.AICopilot.Core.DataAnalysis.AssemblyInfoInputs.cache
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Core.DataAnalysis\obj\Debug\net10.0\Woo.AICopilot.Core.DataAnalysis.AssemblyInfo.cs
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Core.DataAnalysis\obj\Debug\net10.0\Woo.AICopilot.Core.DataAnalysis.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Core.DataAnalysis\obj\Debug\net10.0\Woo.AICo.F2A969BB.Up2Date
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Core.DataAnalysis\obj\Debug\net10.0\Woo.AICopilot.Core.DataAnalysis.dll
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Core.DataAnalysis\obj\Debug\net10.0\refint\Woo.AICopilot.Core.DataAnalysis.dll
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Core.DataAnalysis\obj\Debug\net10.0\Woo.AICopilot.Core.DataAnalysis.pdb
+D:\BaiduNetdiskDownload\wooAI\Zilor.AICopilot\src\Woo.AICopilot.Core.DataAnalysis\obj\Debug\net10.0\ref\Woo.AICopilot.Core.DataAnalysis.dll
