@@ -62,7 +62,7 @@ watch(
       <main class="chat-viewport" ref="scrollContainer">
         <div class="messages-list">
           <div v-if="store.currentMessages.length === 0" class="welcome-banner">
-            <h3>👋 欢迎使用 .NET AI Copilot</h3>
+            <h3>👋 欢迎使用 .NET AI 助手</h3>
             <p>我可以帮您分析数据、查询库存，请试着问我：</p>
             <div class="suggestion-chips">
               <el-tag @click="inputValue='分析各仓库库存占比';handleSend()" class="chip">分析各仓库库存占比</el-tag>
